@@ -1,5 +1,4 @@
 # Titanic IA Project
-# CalculatorVLSM
 Titanic IA Project: Project Final for Artificial Intelligence. Electronic Engineer PUJ
 
 ## Build with 🛠️
